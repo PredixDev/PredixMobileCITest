@@ -3,3 +3,4 @@ os: osx
 osx_image: xcode9
 xcode_project: PredixMobileCITest.xcodeproj
 xcode_scheme: PredixMobileCITest
+xcode_sdk: iphonesimulator11.0
